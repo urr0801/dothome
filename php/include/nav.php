@@ -1,7 +1,7 @@
 
 <ul class="navs clear">
 	<li><a href="../main/main.php?S=0">HOME</a></li>
-	<li><a href="../sub/board.php?S=1">PORTFOLIO</a></li>
+	<li><a href="../board/bbs/board.php?bo_table=gallery&S=1">PORTFOLIO</a></li>
 	<li><a href="../sub/skill.php?S=2">SKILL</a></li>
 	<li><a href="../sub/about.php?S=3">ABOUT ME</a></li>
 </ul>
