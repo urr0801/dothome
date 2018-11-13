@@ -40,7 +40,6 @@
 				</tr>
 			</table>
 		</form>
-		
 	</section>
 </body>
 </html>
