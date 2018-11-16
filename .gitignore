@@ -2,3 +2,4 @@ dbconfig.php
 .vscode
 .htaccess
 sftp.json
+connect.php
